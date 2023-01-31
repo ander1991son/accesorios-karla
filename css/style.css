@@ -1,0 +1,29 @@
+*
+{
+	box-sizing: border-box;
+}
+
+body
+{
+	font-family: "kenia" ;
+}
+
+nav a 
+{
+	margin-right: 7.5px;
+	margin-left: 7.5px;
+
+.container
+{
+	width: 1170px;
+	padding: 0 15px 0 15px;
+	margin: 0 auto;
+}
+
+
+.banner-h
+{
+width: 250px;
+height: 250;
+}
+
